@@ -11,6 +11,10 @@ Arabic NLP tools
 
 ## Installation
 
+```bash
+docker build -t aradoc .
+```
+
 ### Farasa
 
 ```bash
